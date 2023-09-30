@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Deleting old publication"
-rm -f hugo.toml
+#rm -f hugo.toml
 rm -rf publicTmp
 mkdir publicTmp
 
