@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "Laminated I94 Card in 2 Minutes"
-  content: "We make you LEGALLY COMPLIANT by sending you a Lamniated I94 that every US immigrant or non-immigrant needs to carry with them at all times. Better SAFE than SORRY."
+  content: "We make you COMPLIANT by sending you a Laminated I94 that every US immigrant or non-immigrant should carry with them at all times. Better SAFE than SORRY."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Upload your I797A to Get Started"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "contact"
 
 # Features
 features:

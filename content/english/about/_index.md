@@ -1,9 +1,13 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Maria!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/tpdne.jpeg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+A dedicated housewife who has embarked on a remarkable journey into the world of business. 
+
+For years, my life revolved around managing the household, caring for my family, and creating a warm and welcoming home. 
+
+However, a burning passion for entrepreneurship and a desire to pursue my dreams have now led me to step into the exciting and challenging realm of helping and educating immigrants navigate the complex world of Immigration to USA.
