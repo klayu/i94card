@@ -1,4 +1,4 @@
-baseURL = "https://klayu.github.io/i94card/"
+baseURL = "https://www.i94card.com/"
 metaDataFormat = "yaml"
 title = "BLOG : i94card"
 theme = "blist"
