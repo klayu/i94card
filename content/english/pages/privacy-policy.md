@@ -31,7 +31,7 @@ For the purposes of this Privacy Policy:
 
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Klayu LLC, 275 E HILLCREST DR STE 160 PMB 1002.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Klayu LLC.
 
 
 
