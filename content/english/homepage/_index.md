@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Upload your H1/H4/Visa Approval Notice (I-797A) to Get Started | $9.99 Only"
+    label: "Upload your H1/H4/Visa Approval Notice (I-797A) to Get Started | $9.99 (First 50 Orders)"
     link: "contact"
 
 # Features
@@ -23,6 +23,6 @@ features:
       - "Delivered with Tracking Number"
     button:
       enable: true
-      label: "Upload your H1/H4/Visa Approval Notice (I-797A) to Get Started | $9.99 Only"
+      label: "Upload your H1/H4/Visa Approval Notice (I-797A) to Get Started | $9.99 (First 50 Orders)"
       link: "contact"
 ---

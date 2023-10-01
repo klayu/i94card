@@ -22,7 +22,7 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLScwDNxxaXY5aDtgQkixfDywUMJ0Ulv_7MB64KX5_6uzwlDKmA/formResponse" # contact form works with [https://airform.io/] or [https://formspree.io]
 #contact_form_action = "https://airform.io/info@klayu.com" # contact form works with [https://airform.io/] or [https://formspree.io]
-contact_form_header = "We are pleased and honestly surprisd by the number if orders. To maintain quality and speedy service, we are onboarding more customers as we speak. Please leave your email and we will notify you shortly."
+contact_form_header = "We are pleased and honestly surprisd by the number of orders. To maintain quality and speedy service, we are enabling more and more customers every hour. Please leave your email and we will notify you shortly. We Promise :). Remember its $9.99 for first 50 Orders after which we WILL be increasing our price. Orders are delivered on first come basis so we HIGHLY recommend that you register to lock in your price."
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "G-89KRB7E33V" # example: G-89KRB7E33V
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -41,7 +41,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "Get Started | $9.99 Only"
 link = "contact"
 
 # search
@@ -59,7 +59,7 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
+keywords = ["Immigration", "I94", "Visa","H1","H4","F1","I797"]
 description = "Simplifying Immigration to US"
 author = "Klayu.com"
 image = "images/og-image.png"
