@@ -6,19 +6,19 @@ description: "Don't just take our word for it - hear from some of our satisfied 
 # Testimonials
 testimonials:
   - name: "Sheela Mittal"
-    designation: "Web Designer"
+    designation: "IT Manager"
     avatar: "/images/avatar-sm.png"
     content: "Being immigration compliant is a pain. Thank you for removing one area of pain from my life. Ordered it for all my family members."
 
   - name: "Venkat Reddy"
-    designation: "Web Designer"
+    designation: "Solution Architect"
     avatar: "/images/avatar-sm.png"
     content: "Quick service, got family discount. Will renew with them again for my next extension. Wish I had found it sooner."
 
   - name: "Srini Kumaraswami"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Excellent customer service. My credit card was denies and I was able to speak directly to the Owner. Love the fact this is run by an Immigrant themselves."
+    content: "Excellent customer service. My credit card was denied and I was able to speak directly to the Owner. Love the fact this is run by an Immigrant themselves."
 
 # don't create a separate page
 _build:

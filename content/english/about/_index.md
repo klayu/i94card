@@ -2,7 +2,7 @@
 title: "Hey, I am Maria!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/tpdne.jpeg"
+image: "/images/tpdne_poster.png"
 draft: false
 ---
 
