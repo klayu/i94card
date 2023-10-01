@@ -24,7 +24,7 @@ contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLScwDNxxaXY5aDtgQ
 #contact_form_action = "https://airform.io/info@klayu.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 contact_form_header = "To maintain quality and provide excellent service, we are doing a soft Launch. Please leave your email and we will notify you shortly on a first come first serve basis."
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-89KRB7E33V" # example: G-89KRB7E33V
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
@@ -59,8 +59,8 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+description = "Simplifying Immigration to US"
+author = "Klayu.com"
 image = "images/og-image.png"
 
 
