@@ -8,7 +8,7 @@ testimonials:
   - name: "Sheela Mittal"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Being immigration compliant is a pain. Thank you for removing one area of pain from my life. Ordered is for all my family members."
+    content: "Being immigration compliant is a pain. Thank you for removing one area of pain from my life. Ordered it for all my family members."
 
   - name: "Venkat Reddy"
     designation: "Web Designer"

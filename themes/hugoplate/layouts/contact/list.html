@@ -2,12 +2,23 @@
   {{ partial "page-header" . }}
 
 
+  <script type="text/javascript">var submitted=false;</script>
+  <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+  onload="if(submitted) {window.location='/thankyou';}"></iframe>
+
+  
   <section class="section-sm">
+    
     <div class="container">
+      
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form action="{{ site.Params.contact_form_action }}" method="POST">
-            <div class="mb-6">
+          <!-- <form action="{{ site.Params.contact_form_action }}" method="POST"> -->
+            <center>{{ site.Params.contact_form_header }}</center>
+            <br/>
+          <form action="{{ site.Params.contact_form_action }}" method="post" target="hidden_iframe" onsubmit="submitted=true">
+
+            <!-- <div class="mb-6">
               <label for="name" class="form-label">
                 Full Name <span class="text-red-500">*</span>
               </label>
@@ -17,19 +28,29 @@
                 class="form-input"
                 placeholder="John Doe"
                 type="text" />
-            </div>
+            </div> -->
             <div class="mb-6">
+              <input type="hidden" placeholder="Name" class="form-input" name="entry.583092208" value="Skipped" >
+              <input type="hidden" placeholder="Domain" class="form-input" name="entry.864329032" value="i94card.com" >
               <label for="email" class="form-label">
-                Working Mail <span class="text-red-500">*</span>
+                Email <span class="text-red-500">*</span>
               </label>
               <input
+              id="email"
+              name="entry.1721161526"
+              class="form-input"
+              placeholder="john.doe@email.com"
+              type="email" />
+                            
+              <!-- <input
                 id="email"
                 name="email"
                 class="form-input"
                 placeholder="john.doe@email.com"
                 type="email" />
+                 -->
             </div>
-            <div class="mb-6">
+            <!-- <div class="mb-6">
               <label for="message" class="form-label">
                 Anything else? <span class="text-red-500">*</span>
               </label>
@@ -39,7 +60,7 @@
                 class="form-input"
                 placeholder="Message goes here..."
                 rows="8"></textarea>
-            </div>
+            </div> -->
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>
         </div>

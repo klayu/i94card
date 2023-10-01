@@ -20,7 +20,9 @@ theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLScwDNxxaXY5aDtgQkixfDywUMJ0Ulv_7MB64KX5_6uzwlDKmA/formResponse" # contact form works with [https://airform.io/] or [https://formspree.io]
+#contact_form_action = "https://airform.io/info@klayu.com" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_header = "To maintain quality and provide excellent service, we are doing a soft Launch. Please leave your email and we will notify you shortly on a first come first serve basis."
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
