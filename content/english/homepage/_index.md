@@ -16,7 +16,7 @@ features:
     content: "Your H1/H4/F1 I-797A approval notice contains a new I-94  (towards bottom). You will be asked to upload scanned copy. Our AI then auto extracts the I-94 section, prints and laminates it in Visting Card size and ships it to you."
     bulletpoints:
       - "**THICK LAMINATED** for long life"
-      - "Keep it in your **WALLET** at alltimes"
+      - "Keep it in your **WALLET** at all times"
       - "You get to verify and apprvove before print"
       - "Orders processed in-house ( no 3rd party )"
       - "Family discount available"
