@@ -8,15 +8,14 @@ banner:
 
 <br/><br/>It is not only needed while traveling internationally, **it may also be inspected while traveling across states within US or if you live in any of the border states**.
 
-<br/><br/>Do you have your latest I-94 with you right now, if someone were to ask you?
+<br/><br/>Do you have your latest I-94 with you right now, if CBP were to ask you?
 
-<br/><br/>It is most likely tucked away with your important papers in your desk or you may not even have the current I-94 printed!
-We can Help you be SAFE than SORRY!
+<br/><br/>We can Help you be SAFE than SORRY!
 "
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Upload your H1/H4/Visa Approval Notice (I-797A) to Get Started | $9.99 (First 50 Orders)"
+    label: "Get Started | $9.99"
     link: "contact"
 
 # Features
@@ -33,6 +32,6 @@ features:
       - "Delivered with Tracking Number"
     button:
       enable: true
-      label: "Upload your H1/H4/Visa Approval Notice (I-797A) to Get Started | $9.99 (First 50 Orders)"
+      label: "Get Started | $9.99"
       link: "contact"
 ---
