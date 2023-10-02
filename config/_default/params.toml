@@ -22,7 +22,7 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLScwDNxxaXY5aDtgQkixfDywUMJ0Ulv_7MB64KX5_6uzwlDKmA/formResponse" # contact form works with [https://airform.io/] or [https://formspree.io]
 #contact_form_action = "https://airform.io/info@klayu.com" # contact form works with [https://airform.io/] or [https://formspree.io]
-contact_form_header = "We are pleased and honestly surprisd by the number of orders. To maintain quality and speedy service, we are enabling more and more customers every hour. Please leave your email and we will notify you shortly. We Promise :). Remember its $9.99 for first 50 Orders after which we WILL be increasing our price. Orders are delivered on first come basis so we HIGHLY recommend that you register to lock in your price."
+contact_form_header = "We are pleased and honestly surprisd by the number of orders. To maintain quality and speedy service, we are enabling more and more customers every hour. Please leave your email and we will notify you shortly. We Promise :). Remember its $4.99 for first 50 Orders after which we WILL be increasing our price. Orders are delivered on first come basis so we HIGHLY recommend that you register to lock in your price."
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "G-89KRB7E33V" # example: G-89KRB7E33V
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
