@@ -22,12 +22,12 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLScwDNxxaXY5aDtgQkixfDywUMJ0Ulv_7MB64KX5_6uzwlDKmA/formResponse" # contact form works with [https://airform.io/] or [https://formspree.io]
 #contact_form_action = "https://airform.io/info@klayu.com" # contact form works with [https://airform.io/] or [https://formspree.io]
-contact_form_header = "We are pleased and honestly surprisd by the number of orders. To maintain quality and speedy service, we are enabling more and more customers every hour. Please leave your email and we will notify you shortly. We Promise :). Remember its $4.99 for first 50 Orders after which we WILL be increasing our price. Orders are delivered on first come basis so we HIGHLY recommend that you register to lock in your price."
+contact_form_header = "We are pleased and honestly surprised by the number of orders. To maintain quality and speedy service, we are enabling more and more customers every hour. Please leave your email and we will notify you shortly. We Promise :). Remember its $4.99 for first 50 Orders after which we WILL be increasing our price. Orders are delivered on first come basis so we HIGHLY recommend that you register to lock in your price."
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "G-89KRB7E33V" # example: G-89KRB7E33V
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = "<script>!function(e,t){if(!e.getElementById(t)){var c,s=e.getElementsByTagName("script")[0];(c=e.createElement("script")).id=t,c.src="https://sdk.getsitekit.com/static/js/app.js#apiKey=585c860a58cca755fdceb115bc281040",s.parentNode.insertBefore(c,s)}}(document,"sitekit-sdk");</script>"
+custom_script = "<script>  (function(d, id) {    if (d.getElementById(id)) return;    var sc, node = d.getElementsByTagName('script')[0];    sc = d.createElement('script'); sc.id = id;    sc.src = 'https://sdk.getsitekit.com/static/js/app.js#apiKey=585c860a58cca755fdceb115bc281040';    node.parentNode.insertBefore(sc, node);  }(document, 'sitekit-sdk'));</script>"
 
 
 # copyright
