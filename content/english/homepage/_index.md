@@ -15,7 +15,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started | $9.99"
+    label: "Get Started | $4.99"
     link: "contact"
 
 # Features
@@ -32,6 +32,6 @@ features:
       - "Delivered with Tracking Number"
     button:
       enable: true
-      label: "Get Started | $9.99"
+      label: "Get Started | $4.99"
       link: "contact"
 ---

@@ -41,7 +41,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Get Started | $9.99 Only"
+label = "Get Started | $4.99 Only"
 link = "contact"
 
 # search
