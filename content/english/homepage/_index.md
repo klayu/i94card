@@ -6,7 +6,7 @@ banner:
   
 <br/><br/>Every **non-greencard i.e H1B, H4, F1 etc.** holder visiting or residing in the US should be able to produce their I-94 ( proof of legal entry ) at all times when asked by an Authorised personnel. 
 
-<br/><br/>It is not only needed while traveling internationally, **it may also be inspected while traveling across states within US or if you live in any of the border states**.
+<br/><br/>**It CAN be inspected while traveling across states within US or at any random CBP Checkpoint**.
 
 <br/><br/>Do you have your latest I-94 with you right now, if CBP were to ask you?
 
@@ -29,7 +29,7 @@ features:
       - "You get to verify and apprvove before print"
       - "Orders processed in-house ( no 3rd party )"
       - "Family discount available"
-      - "Delivered with Tracking Number"
+      - "FREE Delivery anywhere in US"
     button:
       enable: true
       label: "Get Started | $4.99"
