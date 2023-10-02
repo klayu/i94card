@@ -2,7 +2,17 @@
 # Banner
 banner:
   title: "Laminated I-94 Card in 2 Minutes"
-  content: "We make you **LEGALLY SAFE** by sending you a Laminated I-94 that every non-greencard holder residing in US should carry with them at all times. Better be SAFE than SORRY."
+  content: "**Suitable for your Pocket, Wallet, Purse or Bag**
+  
+<br/><br/>Every **non-greencard i.e H1B, H4, F1 etc.** holder visiting or residing in the US should be able to produce their I-94 ( proof of legal entry ) at all times when asked by an Authorised personnel. 
+
+<br/><br/>It is not only needed while traveling internationally, **it may also be inspected while traveling across states within US or if you live in any of the border states**.
+
+<br/><br/>Do you have your latest I-94 with you right now, if someone were to ask you?
+
+<br/><br/>It is most likely tucked away with your important papers in your desk or you may not even have the current I-94 printed!
+We can Help you be SAFE than SORRY!
+"
   image: "/images/banner.png"
   button:
     enable: true
