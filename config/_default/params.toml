@@ -27,7 +27,9 @@ contact_form_header = "We are pleased and honestly surprisd by the number of ord
 google_tag_manager = "G-89KRB7E33V" # example: G-89KRB7E33V
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = ""
+custom_script = "<script>!function(e,t){if(!e.getElementById(t)){var c,s=e.getElementsByTagName("script")[0];(c=e.createElement("script")).id=t,c.src="https://sdk.getsitekit.com/static/js/app.js#apiKey=585c860a58cca755fdceb115bc281040",s.parentNode.insertBefore(c,s)}}(document,"sitekit-sdk");</script>"
+
+
 # copyright
 # copyright = "Designed & Developed by [Klayu LLC](https://www.klayu.com)"
 copyright = "Designed & Developed by [Klayu LLC](https://klayu.com/)"
