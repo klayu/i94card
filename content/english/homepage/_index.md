@@ -4,7 +4,7 @@ banner:
   title: "Laminated I-94 Card for your Wallet"
   content: "**Suitable for your Pocket, Wallet, Purse or Bag**
   
-<br/><br/>Every **non-greencard i.e H1B, H4, F1 etc.** holder visiting or residing in the US should be able to produce their I-94 ( proof of legal entry ) at all times when asked by an Authorised personnel. 
+<br/><br/>Every **non-greencard i.e H1B, H4, F1 etc.** holder visiting or residing in the US should be able to produce their I-94 ( proof of legal stay ) at all times when asked by an Authorised personnel. 
 
 <br/><br/>**It CAN be inspected while traveling across states within US or at any random CBP Checkpoint**.
 
