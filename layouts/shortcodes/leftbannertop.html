@@ -1,0 +1,55 @@
+{{ if .IsNamedParams }}
+
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image {
+        order: 1;
+    }
+    .textspace {
+        order: 2;
+    }
+    .text {
+        order: 3;
+    }
+    @media (min-width: 768px) {
+        .image {
+            order: 1;
+            width: 45%;
+        }
+        .textspace {
+            order: 2;
+            width: 5%;
+        }
+        .text {
+            order: 3;
+            width: 50%;
+        }
+    }
+    img {
+        border-radius: 10px;
+    }
+</style>
+<div class="container">
+    <div class="image">
+        <a href="{{ .Get "adlink" }}" target="_blank">
+        <img src="{{ .Get "src" }}" alt="Offer">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>
+{{ .Get "text1" }}
+<br><br>
+{{ .Get "text2" }}
+</p>
+    </div>
+</div>
+
+
+{{ else }}
+<img src="{{ .Get 0 }}" alt="">
+{{ end }}

@@ -1,0 +1,22 @@
+{{ if .IsNamedParams }}
+<div class="container">
+    <div class="image">
+        <a href="{{ .Get "adlink" }}" target="_blank">
+        <img src="{{ .Get "src" }}" alt="Offer">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>
+{{ .Get "text1" }}
+<br><br>
+{{ .Get "text2" }}
+</p>
+    </div>
+</div>
+
+
+{{ else }}
+<img src="{{ .Get 0 }}" alt="">
+{{ end }}

@@ -1,30 +1,44 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+#baseURL = "https://239b-2600-6c50-1100-483-6d8f-7a9f-9663-6819.ngrok-free.app/"
+baseURL = "https://i94card.com/"
 # Title of your website (required).
-title = "I94Card.com"
+title = "BeaconStreet USA"
 publishDir = "publicTmp"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "America/Los_Angeles"
 # post pagination
-paginate = 2 # see https://gohugo.io/extras/pagination/
+paginate = 4 # see https://gohugo.io/extras/pagination/
 # post excerpt
-summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+summaryLength = 20 # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/#configure-google-analytics
 # disqus short name
-disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+#disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
-
+timeout = 60000
 ########################## Permalinks ############################
 [permalinks.page]
-"pages" = "/:slugorfilename/"
+posts = "/:filename"
+blog = "/wp/:filename"
+page = "/:filename"
+
+#[permalinks]
+#  [permalinks.term]
+#    tags = '/:slug/'
+
+#"pages" = "/:slugorfilename/"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
 
 
 ############################# Modules ############################
@@ -71,7 +85,7 @@ home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
 [imaging]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
-quality = 90
+quality = 75
 resampleFilter = "Lanczos"
 
 ############################ Caches ##############################

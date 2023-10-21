@@ -2,8 +2,8 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/bsua-logo.png"
+logo_darkmode = "images/bsua-logo-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "I94Card.com"
+logo_text = "BeaconStreet USA"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -28,22 +28,22 @@ contact_form_header = "Please enter your email and we will send you a secure lin
 google_tag_manager = "G-89KRB7E33V" # example: G-89KRB7E33V
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = "<script>  (function(d, id) {    if (d.getElementById(id)) return;    var sc, node = d.getElementsByTagName('script')[0];    sc = d.createElement('script'); sc.id = id;    sc.src = 'https://sdk.getsitekit.com/static/js/app.js#apiKey=585c860a58cca755fdceb115bc281040';    node.parentNode.insertBefore(sc, node);  }(document, 'sitekit-sdk'));</script>"
+#custom_script = "<script>  (function(d, id) {    if (d.getElementById(id)) return;    var sc, node = d.getElementsByTagName('script')[0];    sc = d.createElement('script'); sc.id = id;    sc.src = 'https://sdk.getsitekit.com/static/js/app.js#apiKey=585c860a58cca755fdceb115bc281040';    node.parentNode.insertBefore(sc, node);  }(document, 'sitekit-sdk'));</script>"
 
 
 # copyright
 # copyright = "Designed & Developed by [Klayu LLC](https://www.klayu.com)"
-copyright = "Designed & Developed by [Klayu LLC](https://klayu.com/)"
+copyright = "Designed & Developed by Klayu LLC"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Get Started | $4.99 Only"
 link = "contact"
 
@@ -57,7 +57,6 @@ show_image = true
 show_description = true
 show_tags = true
 show_categories = true
-
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
@@ -105,3 +104,5 @@ enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+
+timeout = 60000

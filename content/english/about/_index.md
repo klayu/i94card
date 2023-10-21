@@ -1,4 +1,5 @@
 ---
+author : "Aria Fox"
 title: "Hey, I am Maria!"
 meta_title: "About"
 description: "this is meta description"
