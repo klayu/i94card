@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on I94Card.com</title><link>/tags/</link><description>Recent content in Tags on I94Card.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>nextjs</title><link>/tags/nextjs/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/tags/nextjs/</guid><description/></item><item><title>silicon</title><link>/tags/silicon/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/tags/silicon/</guid><description/></item><item><title>software</title><link>/tags/software/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/tags/software/</guid><description/></item><item><title>tailwind</title><link>/tags/tailwind/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/tags/tailwind/</guid><description/></item><item><title>technology</title><link>/tags/technology/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/tags/technology/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on i94card</title>
+    <link>https://i94card.com/tags/</link>
+    <description>Recent content in Tags on i94card</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 01:09:48 -0700</lastBuildDate><atom:link href="https://i94card.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animal-welfare</title>
+      <link>https://i94card.com/tags/animal-welfare/</link>
+      <pubDate>Sun, 03 Sep 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://i94card.com/tags/animal-welfare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INFJ</title>
+      <link>https://i94card.com/tags/infj/</link>
+      <pubDate>Sun, 03 Sep 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://i94card.com/tags/infj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myers-Briggs Type Indicator</title>
+      <link>https://i94card.com/tags/myers-briggs-type-indicator/</link>
+      <pubDate>Sun, 03 Sep 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://i94card.com/tags/myers-briggs-type-indicator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pets</title>
+      <link>https://i94card.com/tags/pets/</link>
+      <pubDate>Sun, 03 Sep 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://i94card.com/tags/pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wild-dogs</title>
+      <link>https://i94card.com/tags/wild-dogs/</link>
+      <pubDate>Sun, 03 Sep 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://i94card.com/tags/wild-dogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildlife</title>
+      <link>https://i94card.com/tags/wildlife/</link>
+      <pubDate>Sun, 03 Sep 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://i94card.com/tags/wildlife/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
