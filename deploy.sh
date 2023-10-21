@@ -1,6 +1,34 @@
 #!/bin/sh
 
 echo "Deleting old publication"
+echo worktree remove gh-pages - UB : Give fatal error in case you removed folder already
+
+cd ../
+rm -r gh-pages
+git worktree prune 
+git worktree add --no-checkout gh-pages gh-pages
+
+# git worktree list
+# git worktree remove gh-pages
+# git worktree list
+# git worktree add gh-pages 
+# git worktree list
+# mv gh-pages gh-pages_ori
+# git worktree list
+# mkdir gh-pages
+# git worktree list
+# cp gh-pages_ori/.git gh-pages/
+# git worktree list
+# find ./gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
+# cd ../
+#git worktree remove gh-pages
+#echo git worktree add gh-pages
+#git worktree add gh-pages
+#echo Clearning gh-pages to have clean slate
+#find ./gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
+cd builder
+#exit 0
+
 #rm -f hugo.toml
 rm -rf publicTmp
 mkdir publicTmp
@@ -9,14 +37,6 @@ echo "Generating site"
 npm run build
 echo "Copying to gh-pages"
 echo 'i94card.com' >> publicTmp/CNAME
-
-echo worktree remove gh-pages
-git worktree remove gh-pages
-echo git worktree add gh-pages
-git worktree add gh-pages
-echo Clearning gh-pages to have clean slate
-find ./gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
-
 
 cp -a publicTmp/. ../gh-pages
 # cd ../gh-pages
