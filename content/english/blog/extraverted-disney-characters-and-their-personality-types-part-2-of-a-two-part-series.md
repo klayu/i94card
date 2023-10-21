@@ -28,7 +28,7 @@ ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real
 
 {{< 
 
-leftbannertop src="/images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"  
+leftbannertop src="/ad_images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"  
 
 text1="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. " 
 
@@ -78,7 +78,7 @@ ESFJs are extraverted (E), sensing (S), feeling (F), and judging (J). Snow White
 
 {{< 
 
-leftbanner src="/images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"  
+leftbanner src="/ad_images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"  
 
 text1="They are congenial, loyal and responsible, placing a high value on harmony." 
 
