@@ -2,14 +2,15 @@
 
 # main menu
 [[main]]
-name = "Home"
-url = "/"
+name = "Blog"
+url = "/blog"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Personality Types"
+url = "/categories/myers-briggs-personality-types/"
 weight = 2
+
 
 # [[main]]
 # name = "About"

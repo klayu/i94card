@@ -1,37 +1,27 @@
 ---
 # Banner
 banner:
-  title: "Laminated I-94 Card for your Wallet"
-  content: "**Suitable for your Pocket, Wallet, Purse or Bag**
-  
-<br/><br/>Every **non-greencard i.e H1B, H4, F1 etc.** holder visiting or residing in the US should be able to produce their I-94 ( proof of legal stay ) at all times when asked by an Authorised personnel. 
-
-<br/><br/>**It CAN be inspected while traveling across states within US or at any random CBP Checkpoint**.
-
-<br/><br/>Do you have your latest I-94 with you right now, if CBP were to ask you?
-
-<br/><br/>We can Help you be SAFE than SORRY!
-"
+  title: "I94 Card .com "
+  content: "We are under Maintenance"
   image: "/images/banner.png"
   button:
-    enable: true
-    label: "Get Started | $4.99"
-    link: "contact"
+    enable: false
+    label: "Start Exploring"
+    link: "/blog"
 
 # Features
-features:
-  - title: "What's Included in Laminate Card ?"
-    image: "/images/service-1.png"
-    content: "Your H1/H4/F1 I-797A approval notice contains a new I-94  (towards bottom). You will be asked to upload scanned copy. Our AI then auto extracts the I-94 section, prints and laminates it in Visting Card size and ships it to you."
-    bulletpoints:
-      - "**THICK LAMINATED** for long life"
-      - "Keep it in your **WALLET** at all times"
-      - "You get to verify and apprvove before print"
-      - "Orders processed in-house ( no 3rd party )"
-      - "Family discount available"
-      - "FREE Delivery anywhere in US"
-    button:
-      enable: true
-      label: "Get Started | $4.99"
-      link: "contact"
+# features:
+#   - title: "What's Included in Laminate ?"
+#     image: "/images/service-1.png"
+#     content: "Your I797A approval notice contains a new I94 towards bottom. Our AI auto extracts the I94 section and prints and laminates it in Visting Card size."
+#     bulletpoints:
+#       - "Delivered with Tracking Number"
+#       - "You get to verify and apprvove before print"
+#       - "Orders processed in-house ( no 3rd party )"
+#       - "Family discount available"
+#       - "**THICK LAMINATED** for long life"
+#     button:
+#       enable: false
+#       label: "Get Started Now"
+#       link: "#"
 ---
