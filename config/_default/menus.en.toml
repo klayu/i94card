@@ -1,15 +1,15 @@
 ############# English navigation ##############
 
 # main menu
-[[main]]
-name = "Blog"
-url = "/blog"
-weight = 1
+# [[main]]
+# name = "Blog"
+# url = "/blog"
+# weight = 1
 
-[[main]]
-name = "Personality Types"
-url = "/categories/myers-briggs-personality-types/"
-weight = 2
+# [[main]]
+# name = "Personality Types"
+# url = "/categories/myers-briggs-personality-types/"
+# weight = 2
 
 
 # [[main]]
